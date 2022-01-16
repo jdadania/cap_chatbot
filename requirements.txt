@@ -3,7 +3,6 @@ scipy
 scikit-learn
 matplotlib
 pandas
-fastapi
 uvicorn
 gunicorn==19.9.0
 uvloop
@@ -13,3 +12,4 @@ tensorflow-cpu==2.6.0
 contractions==0.0.25
 nltk==3.5
 autocorrect
+Flask
